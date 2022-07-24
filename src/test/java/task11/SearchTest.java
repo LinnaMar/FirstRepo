@@ -32,12 +32,10 @@ public class SearchTest {
     @Test
     public void searchTest() throws InterruptedException {
         driver.get("https://itea.ua/uk/");
-        try {
+
         element = driver.findElement(By.xpath("//button[@class = 'NotExistentButton']"));
-        element.click(); }
-        catch (NoSuchElementException e) {
-            System.out.println("Button is not present on web page");
+        element.click();
         }
 
-    }
+    
 }

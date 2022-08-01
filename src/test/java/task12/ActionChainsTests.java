@@ -23,7 +23,8 @@ public class ActionChainsTests {
 
     @Before
     public void setUp() {
-        WebDriverManager.chromedriver().setup();
+        //WebDriverManager.chromedriver().setup();
+        System.setProperty("webdriver.chrome.driver", "C:\\Users/evolv/chromedriver.exe");
         ChromeOptions options = new ChromeOptions();
         options.setExperimentalOption("excludeSwitches", Arrays.asList("disable-popup-blocking"));
         driver = new ChromeDriver(options=options);
@@ -44,28 +45,29 @@ public class ActionChainsTests {
         WebElement gate = driver.findElement(By.xpath("//*[@id=\"gate\"]"));
 
         //your code goes after this line
-
+        actions.dragAndDropBy(ball, -60, -106).perform();
         //your code goes before this line
 
-        Thread.sleep(2000);
+        Thread.sleep(4000);
         assertEquals(gate.getAttribute("style"), "background: pink;");
+        System.out.println("Test with ball passed");
     }
 
     @Test
-    public void scrollTest() {
+    public void scrollTest() throws InterruptedException {
         driver.get("https://infinite-scroll.com/demo/full-page/");
 
         //your code goes after this line
-
+        actions.scrollByAmount(0, 10000).perform();
         //your code goes before this line
 
         WebElement collageLink = driver.findElement(By.xpath("//a[text()='Draplin-esque']"));
+        Thread.sleep(4000);
         collageLink.click();
-
+        Thread.sleep(4000);
         String expectedTitle = "Draplin Design Co.: DDC-100 \"Pretty Much Everything Up To October 15, 2015\" Poster";
         assertEquals("Link wasn't clicked", expectedTitle, driver.getTitle());
+        System.out.println("Test with scroll passed");
     }
-
-
 }
 

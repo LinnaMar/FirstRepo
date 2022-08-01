@@ -4,14 +4,20 @@ public class Student {
     private String name;
     private boolean coding;
 
-    public Student() {
+    public Student(String name) {
+        this.name = name;
     }
 
-    public void runHomeTask() {
-
+        public void runHomeTask()
+        {
+            System.out.println(name + " is coding");
+        }
     }
 
-    public String getName() {
-        return name;
-    }
-}
+
+
+
+
+
+
+

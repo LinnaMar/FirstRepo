@@ -2,9 +2,9 @@ package session14.parallel;
 
 import org.junit.Test;
 
-public class TestClass1 {
+public class TestParallelClass1 {
 
-    @Test
+    @Test()
     public void sleep5sec_1 () {
         try {
             Thread.sleep(5000);

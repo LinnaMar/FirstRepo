@@ -24,11 +24,13 @@ public class ActionChainsTests {
     @Before
     public void setUp() {
         //WebDriverManager.chromedriver().setup();
+
         System.setProperty("webdriver.chrome.driver", "C:\\Users/evolv/chromedriver.exe");
         ChromeOptions options = new ChromeOptions();
         options.setExperimentalOption("excludeSwitches", Arrays.asList("disable-popup-blocking"));
         driver = new ChromeDriver(options=options);
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
+        driver.manage().window().maximize();
         actions = new Actions(driver);
     }
 
@@ -55,16 +57,17 @@ public class ActionChainsTests {
 
     @Test
     public void scrollTest() throws InterruptedException {
+
         driver.get("https://infinite-scroll.com/demo/full-page/");
 
         //your code goes after this line
-        actions.scrollByAmount(0, 10000).perform();
+        actions.scrollByAmount(0, 6930).perform();
         //your code goes before this line
-
+        //Thread.sleep(4000);
         WebElement collageLink = driver.findElement(By.xpath("//a[text()='Draplin-esque']"));
-        Thread.sleep(4000);
+       // Thread.sleep(4000);
         collageLink.click();
-        Thread.sleep(4000);
+       // Thread.sleep(4000);
         String expectedTitle = "Draplin Design Co.: DDC-100 \"Pretty Much Everything Up To October 15, 2015\" Poster";
         assertEquals("Link wasn't clicked", expectedTitle, driver.getTitle());
         System.out.println("Test with scroll passed");

@@ -78,17 +78,24 @@
                     <parallel>all</parallel>
                     <threadCountMethods>4</threadCountMethods>
                     <perCoreThreadCount>false</perCoreThreadCount>
-                    <useUnlimitedThreads>true</useUnlimitedThreads>
-                </configuration>
+                     <useUnlimitedThreads>true</useUnlimitedThreads>
 
+
+                    <includes>
+
+                        <include>**/TestSuiteIteaTest.java</include>
+
+                    </includes>
+
+                </configuration>
                 </plugin>
         </plugins>
     </build>
 
-
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+        <runSuite>**/TestSuiteIteaTest.java</runSuite>
     </properties>
 
 </project>

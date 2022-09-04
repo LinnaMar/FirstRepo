@@ -5,7 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69d1959c-ff0b-4745-a562-1e7b927abb95" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/session8/TestSuiteIteaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task13/TestSuite1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/surefire-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2022-08-28T16-28-42_727.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pageObject.SearchTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-session14.junit.annotations.PrimeNumberCheckerTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-session14.junit.suites.TestClass1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-session14.junit.suites.TestClass2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-session14.junit.suites.TestClass3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-session14.junit.suites.TestSuite1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-session14.junit.suites.TestSuite2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-session14.parallel.TestParallelClass1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-session5.SearchTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-task11.SearchTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/pageObject.SearchTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/session14.junit.annotations.PrimeNumberCheckerTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/session14.junit.suites.TestClass1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/session14.junit.suites.TestClass2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/session14.junit.suites.TestClass3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/session14.junit.suites.TestSuite1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/session14.junit.suites.TestSuite2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/session14.parallel.TestParallelClass1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/session5.SearchTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/task11.SearchTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/itea-oleg.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pageObject/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pageObject/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pageObject/SearchResultsPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pageObject/SearchTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session10/tryCatchExamples/DivisionByZero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session10/tryCatchExamples/ListOfNumbers$MultipleExceptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session10/tryCatchExamples/ListOfNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session12/ActionChainsTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session12/IframeTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session14/junit/annotations/PrimeNumberChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session14/junit/annotations/PrimeNumberCheckerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session14/junit/suites/TestClass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session14/junit/suites/TestClass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session14/junit/suites/TestClass3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session14/junit/suites/TestSuite1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session14/junit/suites/TestSuite2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session14/parallel/TestParallelClass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session5/SearchTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session7/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session7/Carnivore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session7/CatBranch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session7/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session7/DogBranch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session7/Herbivore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session7/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session7/Tiger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session8/IteaTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session8/pages/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session8/pages/CoursePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session8/pages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/session8/pages/SearchResultsPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/task10/IteaTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/task10/pages/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/task10/pages/CoursePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/task10/pages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/task10/pages/SearchResultsPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/task11/SearchTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/task12/ActionChainsTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/task13/task13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/task13/task14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/task7/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/task7/QaAutomationStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/task7/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/session8/IteaTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/session8/IteaTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +112,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
-  <component name="RunManager" selected="JUnit.task14">
+  <component name="RunManager" selected="JUnit.IteaTests.searchTest">
     <configuration name="IteaTests.searchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="itea-oleg" />
       <extension name="coverage">
@@ -120,10 +192,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IteaTests.searchTest" />
         <item itemvalue="JUnit.task14" />
         <item itemvalue="JUnit.task13" />
         <item itemvalue="JUnit.SearchTest" />
-        <item itemvalue="JUnit.IteaTests.searchTest" />
         <item itemvalue="JUnit.task13.openSite" />
       </list>
     </recent_temporary>
@@ -149,6 +221,26 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/session8/pages/BasePage.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/session8/IteaTests.java</url>
+          <line>23</line>
+          <properties class="session8.IteaTests" method="searchTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

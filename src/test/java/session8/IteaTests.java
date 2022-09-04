@@ -10,6 +10,7 @@ import session8.pages.SearchResultsPage;
 import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.assertEquals;
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 
 public class IteaTests extends BasePage {

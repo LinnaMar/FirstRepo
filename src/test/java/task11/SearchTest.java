@@ -22,7 +22,7 @@ public class SearchTest {
         //System.setProperty("webdriver.chrome.driver", "/Users/olegsirko/utils/browsers/chromedriver");
 
         driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 
     }
     @After

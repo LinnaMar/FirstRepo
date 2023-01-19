@@ -5,6 +5,7 @@ public class Student {
     private boolean coding;
 
     public Student(String name) {
+
         this.name = name;
     }
 

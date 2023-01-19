@@ -5,8 +5,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69d1959c-ff0b-4745-a562-1e7b927abb95" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/APIs/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/APIs/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/APIs/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/APIs/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/modalWindow/modalwindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CSS/Cssselector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetterNew/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetterNew/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Gettsett/GetSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Gettsett/Vtoroyclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HillelBtntext/Homepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HillelBtntext/program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Inherrrritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Inherrrritance/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Inherrrritance/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Onlineshop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Onlineshop/shopItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageFac/PageFac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageFac/programm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StaticNonstatic/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StaticNonstatic/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/constructSuper/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/constructSuper/pages/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/constructSuper/pages/Sportcar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/downLooad/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/downLooad/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exxxceptions/ArrayLengthException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exxxceptions/CustomLengthException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exxxceptions/Datas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exxxceptions/EmptyArrayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exxxceptions/NegValueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exxxceptions/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/inheritanceSuperKeyword/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/inheritanceSuperKeyword/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/inheritanceSuperKeyword/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapArraySet/program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/openHillelSite/HillelHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/openHillelSite/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/operators/program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/package2611/program2611.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/package2611_2/package26112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/package2611_3/program26113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/package2811/program2811.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/package2911/page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/package2911/program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/packageConctructor2/Anketa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/packageConstructor/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/toString/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/waitElementdisappear/program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/waitt/program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/task11/SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/task11/SearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObject/SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObject/SearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/session10/tryCatchExamples/MultipleExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/session10/tryCatchExamples/MultipleExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/session12/ActionChainsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/session12/ActionChainsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/task7/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/task7/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/task7/QaAutomationStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/task7/QaAutomationStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/task7/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/task7/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/itea-oleg.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObject/SearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pageObject/SearchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/session12/ActionChainsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/session12/ActionChainsTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/session5/SearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/session5/SearchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/session8/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/session8/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task10/IteaTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/task10/IteaTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task10/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/task10/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task7/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/task7/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task7/QaAutomationStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/task7/QaAutomationStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task7/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/task7/Student.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +85,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,94 +113,106 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="JUnit.SearchTest (2)">
-    <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task7.Program" />
+  <component name="RunManager" selected="JUnit.test.SimplRestAssTest">
+    <configuration name="test.SimplRestAssTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="itea-oleg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task7.*" />
+          <option name="PATTERN" value="APIs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="APIs" />
+      <option name="MAIN_CLASS_NAME" value="APIs.test" />
+      <option name="METHOD_NAME" value="SimplRestAssTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session7.Program" />
+    <configuration name="test.SwaggerRestAss" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="itea-oleg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session7.*" />
+          <option name="PATTERN" value="APIs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="APIs" />
+      <option name="MAIN_CLASS_NAME" value="APIs.test" />
+      <option name="METHOD_NAME" value="SwaggerRestAss" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteaTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="test.jsonObjTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="itea-oleg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session8.*" />
+          <option name="PATTERN" value="APIs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="session8" />
-      <option name="MAIN_CLASS_NAME" value="session8.IteaTests" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="APIs" />
+      <option name="MAIN_CLASS_NAME" value="APIs.test" />
+      <option name="METHOD_NAME" value="jsonObjTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="test.okhttpUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="itea-oleg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task11.*" />
+          <option name="PATTERN" value="APIs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="task11" />
-      <option name="MAIN_CLASS_NAME" value="task11.SearchTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="APIs" />
+      <option name="MAIN_CLASS_NAME" value="APIs.test" />
+      <option name="METHOD_NAME" value="okhttpUserTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="test.restAssurTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="itea-oleg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pageObject.*" />
+          <option name="PATTERN" value="APIs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pageObject" />
-      <option name="MAIN_CLASS_NAME" value="pageObject.SearchTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="APIs" />
+      <option name="MAIN_CLASS_NAME" value="APIs.test" />
+      <option name="METHOD_NAME" value="restAssurTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SearchTest (2)" />
-        <item itemvalue="Application.Program (1)" />
-        <item itemvalue="JUnit.IteaTests" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="JUnit.SearchTest" />
+        <item itemvalue="JUnit.test.SimplRestAssTest" />
+        <item itemvalue="JUnit.test.restAssurTest" />
+        <item itemvalue="JUnit.test.SwaggerRestAss" />
+        <item itemvalue="JUnit.test.okhttpUserTest" />
+        <item itemvalue="JUnit.test.jsonObjTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\evolv\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="69d1959c-ff0b-4745-a562-1e7b927abb95" name="Changes" comment="" />
@@ -153,8 +242,23 @@
           <line>26</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/HillelBtntext/program.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="exxxceptions.EmptyArrayException" package="exxxceptions" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="driver.findElement(By.id(&quot;input-name-consultation&quot;)).sendKeys(&quot;Mary&quot;);" language="JAVA" />
+        <watch expression="driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

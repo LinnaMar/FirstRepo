@@ -31,7 +31,6 @@ public class ActionChainsTests {
 
     @After
     public void tearDown() {
-        //Close browser
         driver.quit();
     }
 

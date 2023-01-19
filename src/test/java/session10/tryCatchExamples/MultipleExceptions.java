@@ -1,5 +1,5 @@
 package session10.tryCatchExamples;
-class ListOfNumbers {
+class  ListOfNumbers {
     public int[] arr = new int[10];
 
     public void writeList() {

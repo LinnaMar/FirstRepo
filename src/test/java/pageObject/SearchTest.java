@@ -29,7 +29,7 @@ public class SearchTest {
 
     @Before
     public void setUp() {
-        //install latest ChromeDriver
+
         //WebDriverManager.chromedriver().setup();
         System.setProperty("webdriver.chrome.driver", "/Users/olegsirko/utils/browsers/chromedriver");
 

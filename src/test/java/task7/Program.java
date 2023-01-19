@@ -11,7 +11,7 @@ public class Program {
     public static void main(String[] args) {
 
         Student student = new Student("Oleg");
-        QaAutomationStudent qaAutomationStudent = new QaAutomationStudent ("Mary");
+        QaAutomationStudent qaAutomationStudent = new QaAutomationStudent ("111");
         student.runHomeTask();
         qaAutomationStudent.runHomeTask();
 

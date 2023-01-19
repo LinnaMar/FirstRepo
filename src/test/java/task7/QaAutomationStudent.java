@@ -8,11 +8,11 @@ public class QaAutomationStudent extends Student {  //подкласс насл�
                 super(name);
         }
 
-        @Override
-        public void runHomeTask()
+        /*  @Override
+       public void runHomeTask()
         {
-             System.out.println ("Masha is coding");
-        }
+             System.out.println ("я иду гулять");
+        } */
 }
 
 

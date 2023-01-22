@@ -4,6 +4,7 @@ public class shopItems {
 
     private String blouse = "Блуза совсем не розовая уже";
     private String phone = "Айфон 11";
+    private String peidjer;
 
     private int blousePrice = 100;
     private int phonePrice = 1000;

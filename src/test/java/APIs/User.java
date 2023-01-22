@@ -18,7 +18,7 @@ public class User {
     private String password;
     private String phone;
     private int userStatus;
-    private String wrongcomment1234;
+    private String wrongcomment1;
 
 }
 

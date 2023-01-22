@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="69d1959c-ff0b-4745-a562-1e7b927abb95" name="Changes" comment="just a test for adding to github">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/APIs/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/APIs/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2CkNx4v8XsBXdIoDIcOaQpTPtZw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,7 +51,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="JUnit.test.SimplRestAssTest">
     <configuration name="test.SimplRestAssTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">

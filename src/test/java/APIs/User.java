@@ -18,7 +18,5 @@ public class User {
     private String password;
     private String phone;
     private int userStatus;
-    private int something;
-    private int something2;
 }
 

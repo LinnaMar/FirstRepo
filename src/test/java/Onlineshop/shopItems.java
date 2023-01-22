@@ -2,7 +2,7 @@ package Onlineshop;
 
 public class shopItems {
 
-    private String blouse = "Розовая блуза1";
+    private String blouse = "Блуза совсем не розовая уже";
     private String phone = "Айфон 11";
 
     private int blousePrice = 100;

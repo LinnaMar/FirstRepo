@@ -37,7 +37,7 @@ public class program {
 
        // actions.moveToElement(ball).clickAndHold().moveToElement(gate).release().perform(); // пошагово наведу на эл-т, зажму, передвину, отпущу
        // actions.dragAndDrop(ball, gate).perform(); // упрощенный метод
-        actions.dragAndDropBy(ball, -57, - 113).perform();
+        actions.dragAndDropBy(ball, -58, - 113).perform();
 
         // как определить, куда двигать мяч и сколько пикселей? На странице есть скрипт, его надо открыть и подвигать мячем. Бужет видно изменения по осям
         assertEquals (gate.getAttribute  ("style"), "background: pink;");

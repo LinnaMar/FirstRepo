@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ITEA" />
         <module name="itea-oleg" />
+        <module name="AutomationMary" />
       </profile>
     </annotationProcessing>
   </component>
